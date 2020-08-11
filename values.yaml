@@ -6,7 +6,6 @@
 global:
   replicas: 1
   image:
-    registry:registry.cn-hangzhou.aliyuncs.com/megumi12345/
     tag: v_1
     #namespace: nickchen
     pullsecrets:
